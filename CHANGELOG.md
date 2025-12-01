@@ -2,6 +2,10 @@
 
 All notable changes to the "rg-lively-gray-theme" extension will be documented in this file.
 
+## [0.0.2] - 2025-12-01
+- Added extension icon
+- Updated license information
+
 ## [0.0.1] - 2025-12-01
 - Initial release
 - Added 6 theme variants:
