@@ -1,0 +1,61 @@
+{
+    "name": "lively-gray-theme",
+    "displayName": "RG Lively Gray Theme",
+    "description": "A comfortable gray-based theme with lively accents, optimized for PHP.",
+    "version": "0.0.1",
+    "publisher": "rg-lee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rgleedev/rg-lively-gray-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "gray",
+        "dark",
+        "php",
+        "eye-care",
+        "warm",
+        "cool",
+        "high contrast"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RG Lively Gray (Warm)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-warm.json"
+            },
+            {
+                "label": "RG Lively Gray (Cool)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-cool.json"
+            },
+            {
+                "label": "RG Lively Gray (High Contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-hc.json"
+            },
+            {
+                "label": "RG Lively Gray (Warm Light)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-warm-light.json"
+            },
+            {
+                "label": "RG Lively Gray (Cool Light)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-cool-light.json"
+            },
+            {
+                "label": "RG Lively Gray (HC Light)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lively-gray-hc-light.json"
+            }
+        ]
+    }
+}
