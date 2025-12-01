@@ -3,6 +3,7 @@
     "displayName": "RG Lively Gray Theme",
     "description": "A comfortable gray-based theme with lively accents, optimized for PHP.",
     "version": "0.0.1",
+    "license": "MIT",
     "publisher": "rg-lee",
     "repository": {
         "type": "git",
